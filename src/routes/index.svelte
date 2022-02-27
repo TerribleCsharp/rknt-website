@@ -6,27 +6,27 @@
 <h1>Opowieści różnej treści</h1>
 <section class="news-container" id="news">
 	<article class="news-item">
-		<img src="/images/old/NEWS2_Bielik.png" alt="" class="news-image" />
-		<p class="news-date">30 lutego, 2069</p>
-		<h2 class="news-title">Niewątpliwie coś się wtedy wydarzyło</h2>
+		<img src="/images/news/rknt_logo.png" alt="" class="news-image" />
+		<p class="news-date">28 grudnia, 2021</p>
+		<h2 class="news-title">podsumowanie roku i plany na przyszłość</h2>
 		<a href="." class="news-button">Zobacz więcej</a>
 	</article>
 	<article class="news-item">
-		<img src="/images/old/NEWS5_rakietaorlik.png" alt="" class="news-image" />
-		<p class="news-date">10 marca, 2021</p>
-		<h2 class="news-title">Niewątpliwie coś się wtedy wydarzyło</h2>
+		<img src="/images/news/zrzutka.png" alt="" class="news-image" />
+		<p class="news-date">19 grudnia, 2021</p>
+		<h2 class="news-title">sukces zrzutki</h2>
 		<a href="." class="news-button">Zobacz więcej</a>
 	</article>
 	<article class="news-item">
-		<img src="/images/old/NEWS6_karta_honorowa.png" alt="" class="news-image" />
-		<p class="news-date">30 lutego, 2069</p>
-		<h2 class="news-title">Niewątpliwie coś się wtedy wydarzyło</h2>
+		<img src="/images/news/wtryskiwacze.jpg" alt="" class="news-image" />
+		<p class="news-date">10 grudnia, 2021</p>
+		<h2 class="news-title">pierwszy test podzespołów silnika Bieli3K - wtryskiwacze</h2>
 		<a href="." class="news-button">Zobacz więcej</a>
 	</article>
 	<article class="news-item">
-		<img src="/images/old/NEWS1_RKNTlogo.png" alt="" class="news-image" />
-		<p class="news-date">10 marca, 2021</p>
-		<h2 class="news-title">Niewątpliwie coś się wtedy wydarzyło</h2>
+		<img src="/images/news/zzt.png" alt="" class="news-image" />
+		<p class="news-date">2 grudnia, 2021</p>
+		<h2 class="news-title">RKNT bierze udział w ZZT</h2>
 		<a href="." class="news-button">Zobacz więcej</a>
 	</article>
 </section>
