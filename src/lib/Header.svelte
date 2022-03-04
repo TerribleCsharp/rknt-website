@@ -31,8 +31,8 @@
 <nav class={showNav ? '' : 'nav--hidden'} class:nav--transparent={transparentNav}>
 	<div class="nav-container">
 		<a href="/"><img src="/images/logo_cropped.svg" alt="Logo RKNT Invenio" /></a>
-		<a href="#news" class="nav-element">Nowości</a>
-		<a href="." class="nav-element">Projekty</a>
+		<a href="/#news" class="nav-element">Nowości</a>
+		<a href="/#news	" class="nav-element">Projekty</a>
 		<a href="#about" class="nav-element">O nas</a>
 		<a href="#partners" class="nav-element">Partnerzy</a>
 		<a href="#contact" class="nav-element">Kontakt</a>

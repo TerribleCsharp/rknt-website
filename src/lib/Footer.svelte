@@ -43,9 +43,9 @@
 </section>
 <footer>
 	<nav>
-		<a href=".">HOME</a>
-		<a href="#news">NOWOŚCI</a>
-		<a href=".">PROJEKTY</a>
+		<a href="/">HOME</a>
+		<a href="/#news">NOWOŚCI</a>
+		<a href="/#news">PROJEKTY</a>
 		<a href="#about">O NAS</a>
 		<a href="#partners">PARTNERZY</a>
 	</nav>
@@ -62,12 +62,12 @@
 				</ul>
 			</address>
 		</section>
-		<section>
+		<section id="about">
 			<h2>O kole</h2>
 			<ul>
 				<li><a href="#about">Kim jesteśmy</a></li>
 				<li><a href="#partners">Z kim współpracujemy</a></li>
-				<li><a href="#news">Nowości</a></li>
+				<li><a href="/#news">Nowości</a></li>
 			</ul>
 		</section>
 		<section>

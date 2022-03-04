@@ -9,25 +9,25 @@
 		<img src="/images/news/rknt_logo.png" alt="" class="news-image" />
 		<p class="news-date">28 grudnia, 2021</p>
 		<h2 class="news-title">podsumowanie roku i plany na przyszłość</h2>
-		<a href="." class="news-button">Zobacz więcej</a>
+		<a href="/news/podsumowanie" class="news-button">Zobacz więcej</a>
 	</article>
 	<article class="news-item">
 		<img src="/images/news/zrzutka.png" alt="" class="news-image" />
 		<p class="news-date">19 grudnia, 2021</p>
 		<h2 class="news-title">sukces zrzutki</h2>
-		<a href="." class="news-button">Zobacz więcej</a>
+		<a href="/news/zrzutka" class="news-button">Zobacz więcej</a>
 	</article>
 	<article class="news-item">
 		<img src="/images/news/wtryskiwacze.jpg" alt="" class="news-image" />
 		<p class="news-date">10 grudnia, 2021</p>
 		<h2 class="news-title">pierwszy test podzespołów silnika Bieli3K - wtryskiwacze</h2>
-		<a href="." class="news-button">Zobacz więcej</a>
+		<a href="/news/wtryskiwacze" class="news-button">Zobacz więcej</a>
 	</article>
 	<article class="news-item">
 		<img src="/images/news/zzt.png" alt="" class="news-image" />
 		<p class="news-date">2 grudnia, 2021</p>
 		<h2 class="news-title">RKNT bierze udział w ZZT</h2>
-		<a href="." class="news-button">Zobacz więcej</a>
+		<a href="/news/zzt" class="news-button">Zobacz więcej</a>
 	</article>
 </section>
 
