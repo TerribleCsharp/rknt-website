@@ -9,6 +9,7 @@
 
 <style lang="scss">
 	.hero {
+		margin-top: -6rem;
 		height: 100vh;
 		background-image: url('/images/wifi_hero.jpg');
 		background-attachment: fixed;

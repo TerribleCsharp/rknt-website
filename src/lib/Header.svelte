@@ -45,7 +45,7 @@
 		top: 0;
 		height: 4rem;
 		width: 100%;
-		margin-bottom: -6rem;
+		// margin-bottom: -6rem;
 		font-size: 1.2em;
 		font-weight: 600;
 		text-align: center;
