@@ -1,4 +1,4 @@
-<article>
+<article class="news">
 	<header>
 		<h1>sukces zrzutki</h1>
 		<h2>19 grudnia</h2>

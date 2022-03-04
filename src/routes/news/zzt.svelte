@@ -1,4 +1,4 @@
-<article>
+<article class="news">
 	<header>
 		<h1>RKNT bierze udział w ZZT</h1>
 		<h2>2 grudnia</h2>

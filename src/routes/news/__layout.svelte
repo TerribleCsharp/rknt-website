@@ -1,7 +1,7 @@
 <slot />
 
 <style global lang="scss">
-	article {
+	.news {
 		position: relative;
 		margin: 1rem auto;
 		width: 100%;

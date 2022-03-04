@@ -1,4 +1,4 @@
-<article>
+<article class="news">
 	<header>
 		<h1>podsumowanie roku i plany na przyszłość</h1>
 		<h2>28 grudnia</h2>

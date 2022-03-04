@@ -1,4 +1,4 @@
-<article>
+<article class="news">
 	<header>
 		<h1>pierwszy test podzespołów silnika Bieli3K - wtryskiwacze</h1>
 		<h2>10 grudnia</h2>
