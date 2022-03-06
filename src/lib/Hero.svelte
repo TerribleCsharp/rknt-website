@@ -1,6 +1,6 @@
 <!-- <img src="/images/splashscreendark.png" alt="Prototyp hybrydowego silnika rakietowego Bieli3k" /> -->
 <section class="hero">
-	<a href="." class="hero__button">
+	<a href="/news/wifi" class="hero__button">
 		13 PAŹDZIERNIKA
 		<h2>FESTIWAL WIFI</h2>
 		ZOBACZ >

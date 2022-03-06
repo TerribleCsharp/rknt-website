@@ -19,7 +19,7 @@
 		}
 		h1,
 		h2 {
-			margin: 0;
+			margin: 0 1rem;
 		}
 		h2 {
 			font-size: 2rem;
@@ -29,7 +29,7 @@
 		}
 		p {
 			margin: 1rem;
-
+			// text-align: left;
 			a {
 				color: var(--c-accent-light);
 				font-weight: 800;

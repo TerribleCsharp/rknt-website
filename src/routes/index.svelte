@@ -3,7 +3,7 @@
 </script>
 
 <Hero />
-<h1>Opowieści różnej treści</h1>
+<h1>Nowości</h1>
 <section class="news-container" id="news">
 	<article class="news-item">
 		<img src="/images/news/rknt_logo.png" alt="" class="news-image" />
