@@ -73,6 +73,7 @@
 
 			.nav-element {
 				display: inline-block;
+				vertical-align: bottom;
 				margin: 0 0.5rem;
 				text-transform: uppercase;
 				transition: all 300ms ease-out;
@@ -85,7 +86,7 @@
 					background-color: var(--c-accent-light);
 					// background-color: #fff;
 					height: 0em;
-					width: 2px;
+					width: 3px;
 					transition: all 300ms ease-out;
 				}
 				&::before {
