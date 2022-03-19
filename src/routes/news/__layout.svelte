@@ -41,33 +41,6 @@
 				// color: darkred;
 			}
 		}
-
-		figure {
-			margin: 1.5rem auto;
-			// padding: 1rem;
-			width: fit-content;
-			max-width: var(--max-width);
-			// box-shadow: 0 0 15px 12px #111;
-
-			img {
-				display: block;
-				max-width: 90%;
-				box-shadow: 0 0 15px 12px #111;
-				padding: 1rem;
-				@media (min-width: 800px) {
-					max-width: 50vw;
-					// max-width: calc(100% - 2rem);
-				}
-			}
-			figcaption {
-				// margin: 1rem 1rem 0;
-				margin: 1rem 0 0;
-				text-align: right;
-				font-size: 1.1rem;
-				font-weight: 300;
-				color: var(--c-text-secondary);
-			}
-		}
 	}
 
 	.bg-image {
