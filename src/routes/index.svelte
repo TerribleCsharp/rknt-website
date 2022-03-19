@@ -49,7 +49,7 @@
 
 	.news-item {
 		width: 100%;
-		padding-bottom: 8%;
+		// padding-bottom: 8%;
 
 		@media (min-width: 800px) {
 			width: calc(50% - 1rem);
