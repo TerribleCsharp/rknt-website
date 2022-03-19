@@ -16,6 +16,7 @@
 <style global lang="scss">
 	:root {
 		--c-text: #eee;
+		--c-text-secondary: #bbb;
 
 		--c-bg: #181818;
 		--c-accent-dark: rgb(89, 33, 46);

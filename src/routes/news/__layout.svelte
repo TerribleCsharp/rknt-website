@@ -4,32 +4,37 @@
 	.news {
 		position: relative;
 		margin: 1rem auto;
-		width: 100%;
-		max-width: var(--max-width);
+		width: calc(100% - 2rem);
 		font-size: 1.1rem;
-		text-align: justify;
+		text-align: left;
 
 		@media (min-width: 800px) {
-			width: 70%;
+			width: 60%;
+			max-width: var(--max-width);
 			padding: 1rem;
+			text-align: justify;
+			// text-align: left;
 		}
 		header {
 			margin: 0.8rem auto;
 			width: fit-content;
+			// width: 100%;
 		}
 		h1,
 		h2 {
-			margin: 0 1rem;
+			margin: 0;
+		}
+		h1 {
+			font-size: 3rem;
 		}
 		h2 {
 			font-size: 2rem;
 			font-weight: 200;
-			color: #bbb;
+			color: var(--c-text-secondary);
 			text-align: right;
 		}
 		p {
-			margin: 1rem;
-			// text-align: left;
+			margin: 0rem;
 			a {
 				color: var(--c-accent-light);
 				font-weight: 800;
