@@ -90,16 +90,16 @@ nav {
 	display: flex;
 	flex-flow: column nowrap;
 	align-items: stretch;
-	margin: auto;
+	margin: 0 auto 1rem;
 	width: var(--footer-width);
 	max-width: var(--footer-width-max);
 
 	section {
-		margin: 0 0 1em;
+		margin: 0;
 		text-align: right;
 
 		h2 {
-			margin-bottom: 0.4em;
+			margin: 0.5em 0 0em;
 			padding-right: 0.5rem;
 			border-right: solid 1px var(--c-accent-dark);
 			color: var(--footer-text-secondary);
@@ -115,7 +115,7 @@ nav {
 			list-style-type: none;
 		}
 		li {
-			margin-bottom: 0.5em;
+			margin-bottom: 0.2em;
 			color: var(--footer-text-primary);
 			font-weight: 200;
 			font-size: 1.2em;
@@ -125,15 +125,20 @@ nav {
 			font-style: inherit;
 		}
 	}
+	.hide {
+		display: none;
+	}
 
 	@media (min-width: $footer-breakpoint) {
+		margin-bottom: 0;
 		flex-flow: row wrap;
 		justify-content: space-between;
 		align-items: flex-start;
 		padding-top: 2rem;
+		column-gap: 2em;
 
 		section {
-			margin-right: 2em;
+			margin-bottom: 1em;
 			text-align: left;
 
 			h2 {
@@ -141,6 +146,13 @@ nav {
 				padding: 0;
 				border: none;
 			}
+
+			li {
+				margin-bottom: 0.5em;
+			}
+		}
+		.hide {
+			display: initial;
 		}
 	}
 }
@@ -151,7 +163,7 @@ nav {
 	align-items: center;
 	margin: auto;
 	border-top: 1px solid var(--c-accent-dark);
-	padding: 2rem 0 1rem;
+	padding: 1rem 0;
 	width: var(--footer-width);
 	max-width: var(--footer-width-max);
 
@@ -184,6 +196,7 @@ nav {
 		flex-flow: row nowrap;
 		align-items: flex-end;
 		justify-content: flex-start;
+		padding: 2rem 0 1rem;
 
 		img {
 			margin: 0 1em 0 0;

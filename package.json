@@ -1,6 +1,6 @@
 {
 	"name": "rknt-website",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "A simple, static homepage for the RKNT Invenio group",
 	"scripts": {
 		"dev": "svelte-kit dev --open",
