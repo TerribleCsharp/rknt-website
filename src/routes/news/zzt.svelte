@@ -23,13 +23,10 @@
 		<br />Twitter: <a href="https://twitter.com/RInvenio">https://twitter.com/RInvenio</a>
 		<br />Discord: <a href="https://discord.gg/sxjnRWqS">https://discord.gg/sxjnRWqS</a>
 	</p>
-	<!-- <figure>
-		<img src="/images/news/zzt/logo_ING.svg" alt="Logo ING" />
-		<figcaption>Nasze koło nawiązało współpracę z ING Bank Śląski</figcaption>
-	</figure> -->
 	<Image
 		src="/images/news/zzt/logo_ING.svg"
 		alt="Logo ING"
 		caption="Nasze koło nawiązało współpracę z ING Bank Śląski"
+		variant="2"
 	/>
 </article>
