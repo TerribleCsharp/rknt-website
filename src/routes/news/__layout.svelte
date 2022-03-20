@@ -14,31 +14,33 @@
 			padding: 1rem;
 			text-align: justify;
 			// text-align: left;
+
+			h1 {
+				font-size: 3rem;
+			}
 		}
 		header {
 			margin: 0.8rem auto;
 			width: fit-content;
 			// width: 100%;
 		}
-		h1,
+		h1 {
+			margin: 0;
+			font-size: 2.5rem;
+			overflow: hidden;
+		}
 		h2 {
 			margin: 0;
-		}
-		h1 {
-			font-size: 3rem;
-		}
-		h2 {
 			font-size: 2rem;
 			font-weight: 200;
 			color: var(--c-text-secondary);
 			text-align: right;
 		}
 		p {
-			margin: 0rem;
+			margin: 0 0 1rem;
 			a {
 				color: var(--c-accent-light);
 				font-weight: 800;
-				// color: darkred;
 			}
 		}
 	}

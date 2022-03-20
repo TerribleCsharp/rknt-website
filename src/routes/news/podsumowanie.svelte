@@ -45,12 +45,13 @@
 		<br /> koniec stycznia - początek lutego - test statyczny silnika Bieli3K
 		<br /> luty - rozpoczęcie prac nad silnikiem Bieli10K
 		<br /> marzec - rozpoczęcie prac nad rakietą Orlik, którą wyposażymy w nasz silnik Bieli10K
-		<br /><br />
-		Oprócz tego będziemy w dalszym ciągu kontynuować współpracę z innymi kołami i inicjatywami uczniowskimi,
-		tak jak robiliśmy to do tej pory, pomagając im zdobyć fundusze i kontakt do specjalistów z branży.
-		Nie zapominamy też jak dużo zawdzięczamy Wam - wszystkim osobom, które wspierają nas i interesują
-		się naszymi działaniami, dlatego z tego miejsca, chcemy szczerze i od serca życzyć Wam szczęśliwego
-		Nowego Roku!
+	</p>
+	<p>
+		Oprócz tego będziemy w dalszym ciągu kontynuować współpracę z innymi kołami i inicjatywami
+		uczniowskimi, tak jak robiliśmy to do tej pory, pomagając im zdobyć fundusze i kontakt do
+		specjalistów z branży. Nie zapominamy też jak dużo zawdzięczamy Wam - wszystkim osobom, które
+		wspierają nas i interesują się naszymi działaniami, dlatego z tego miejsca, chcemy szczerze i od
+		serca życzyć Wam szczęśliwego Nowego Roku!
 	</p>
 	<!-- <div class="bg-image" /> -->
 </article>

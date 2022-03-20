@@ -59,14 +59,9 @@
 
 	.news-image {
 		width: 100%;
-		// height: 50%;
 		aspect-ratio: 16/9;
 		object-fit: cover;
 		object-position: center;
-
-		// @media (min-width: 800px) {
-		// 	height: 72%;
-		// }
 	}
 
 	.news-date {
