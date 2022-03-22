@@ -44,7 +44,13 @@
 		<a href="#partners" class="nav-element">Partnerzy</a>
 		<a href="#contact" class="nav-element">Kontakt</a>
 	</div>
-	<div class="nav-menu" class:active />
+	<div class="nav-menu" class:active>
+		<a href="/" class="side-menu__element">O nas</a>
+		<a href="/" class="side-menu__element">Archiwum</a>
+		<a href="/" class="side-menu__element">Partnerzy</a>
+		<a href="/" class="side-menu__element">Zgłoś swoje koło do InnHub</a>
+		<a href="/" class="side-menu__element">Kontakt</a>
+	</div>
 	<div class="nav-menu__button" class:active on:click={toggle}>
 		<svg width="100%" height="100%" viewBox="0 0 100 100">
 			<path
@@ -75,12 +81,13 @@
 		transition: all 200ms ease-out;
 		z-index: 5;
 		overflow-x: clip;
-		// overflow: clip visible;
 
 		.nav-container {
+			position: relative;
 			width: 90%;
 			max-width: 1200px;
 			margin: auto;
+			z-index: 1;
 		}
 		.nav-element {
 			display: none;
@@ -89,32 +96,51 @@
 			height: 2rem;
 			margin: 1rem 0 0;
 		}
+		//TODO change nav-menu to sidemenu
 		.nav-menu {
 			position: absolute;
+			// top: 4rem;
 			top: 0;
 			right: 0;
-			width: 50%;
+			width: 75%;
 			//height greater than 100vh protects against animations messing with the menu
 			height: 120vh;
 			max-width: 400px;
-			background-color: aqua;
+			// background-color: var(--c-bg);
+			background-color: #040404;
 			transform: translateX(100%);
 			transition: all 600ms ease;
+			padding-top: 6rem;
 			&.active {
 				transform: none;
 			}
 		}
+		.side-menu__element {
+			display: block;
+			margin: 1.2rem 2rem 0 1rem;
+			padding-bottom: 0.3rem;
+			text-align: right;
+			text-transform: uppercase;
+			font-weight: 300;
+			font-size: 1.2rem;
+			border-bottom: 1px solid #222;
+			transition: inherit;
+
+			&:hover {
+				border-color: #444;
+				color: #fff;
+			}
+			@media (min-width: 800px) {
+				font-size: 1.4rem;
+			}
+		}
 		.nav-menu__button {
 			position: absolute;
-			// top: 25%;
-			// right: 2%;
-			// height: 50%;
-			// aspect-ratio: 1/1;
 			top: 25%;
 			right: 1rem;
 			width: 2rem;
 			height: 2rem;
-			// background-color: #00aaaa;
+			z-index: 2;
 
 			.line {
 				fill: none;
@@ -192,6 +218,10 @@
 				width: 3rem;
 				height: 3rem;
 			}
+
+			// .nav-menu {
+			// 	top: 6rem;
+			// }
 		}
 	}
 	.nav--hidden {
