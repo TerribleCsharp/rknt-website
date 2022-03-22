@@ -1,3 +1,7 @@
+<script lang="ts">
+	import Image from '$lib/Image.svelte';
+</script>
+
 <article class="news">
 	<header>
 		<h1>pierwszy test podzespołów silnika Bieli3K - wtryskiwacze</h1>
@@ -19,4 +23,9 @@
 			title="video"
 		/>
 	</div>
+	<Image
+		src="/images/news/wtryskiwacze/wtryskiwacze.jpg"
+		alt="Podzespół silnika Bieli3K - wtryskiwacze"
+		caption="Podzespół silnika Bieli3K - wtryskiwacze"
+	/>
 </article>
