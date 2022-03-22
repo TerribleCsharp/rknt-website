@@ -80,7 +80,8 @@
 		font-size: 1.2em;
 		font-weight: 600;
 		text-align: center;
-		background-color: rgba(#040404, 0.87);
+		background-color: var(--c-bg);
+		// background-color: rgba(#040404, 0.87);
 		backdrop-filter: blur(10px);
 		transition: all 200ms ease-out;
 		z-index: 5;
