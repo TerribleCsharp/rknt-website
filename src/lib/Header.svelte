@@ -43,11 +43,15 @@
 		<a href="#about" class="nav-element">O nas</a>
 		<a href="#partners" class="nav-element">Partnerzy</a>
 		<a href="#contact" class="nav-element">Kontakt</a>
+		<!-- <a href="/" class="nav-element">BieliK</a>
+		<a href="/" class="nav-element">OrliK</a>
+		<a href="/" class="nav-element">CherrySat</a>
+		<a href="/" class="nav-element">InnHub</a> -->
 	</div>
 	<div class="nav-menu" class:active>
-		<a href="/" class="side-menu__element">O nas</a>
+		<a href="#about" class="side-menu__element">O nas</a>
 		<a href="/" class="side-menu__element">Archiwum</a>
-		<a href="/" class="side-menu__element">Partnerzy</a>
+		<a href="#partners" class="side-menu__element">Partnerzy</a>
 		<a href="/" class="side-menu__element">Zgłoś swoje koło do InnHub</a>
 		<a href="/" class="side-menu__element">Kontakt</a>
 	</div>
