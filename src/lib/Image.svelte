@@ -38,11 +38,13 @@
 
 		img {
 			display: block;
-			max-width: 90%;
+			max-width: 100%;
+			max-height: 80vh;
+			margin: auto;
 
-			@media (min-width: 800px) {
-				max-width: 50vw;
-			}
+			// @media (min-width: 800px) {
+			// 	max-width: 50vw;
+			// }
 		}
 		figcaption {
 			margin-top: 1rem;

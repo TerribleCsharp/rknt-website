@@ -10,11 +10,11 @@
 		przebiegł w 100% po naszej myśli i stanowi kolejny krok do realizacji naszego celu. Krótkie
 		nagranie z całego zajścia możecie zobaczyć poniżej:
 	</p>
-	<div style="margin: auto; text-align:center;">
+	<div style="margin:auto;text-align:center;width:100%;aspect-ratio:16/9;">
 		<iframe
 			src="https://drive.google.com/file/d/1Ig-FhpeFp19yq7z6YUxez1sxMep6rz7_/preview"
-			width="640"
-			height="360"
+			width="100%"
+			height="100%"
 			allow="autoplay"
 			title="video"
 		/>

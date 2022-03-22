@@ -9,7 +9,7 @@
 		text-align: left;
 
 		@media (min-width: 800px) {
-			width: 60%;
+			width: 40%;
 			max-width: var(--max-width);
 			padding: 1rem;
 			text-align: justify;
