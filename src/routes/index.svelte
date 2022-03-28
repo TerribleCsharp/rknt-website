@@ -6,6 +6,12 @@
 <h1>Nowości</h1>
 <section class="news-container" id="news">
 	<article class="news-item">
+		<img src="/images/news/sm/sm.png" alt="" class="news-image" />
+		<p class="news-date">25 marca, 2022</p>
+		<h2 class="news-title">RKNT obejmuje patronatem projekt Sprawne Miasto</h2>
+		<a href="/news/sm" class="news-button">Zobacz więcej</a>
+	</article>
+	<article class="news-item">
 		<img src="/images/news/rknt_logo.png" alt="" class="news-image" />
 		<p class="news-date">28 grudnia, 2021</p>
 		<h2 class="news-title">podsumowanie roku i plany na przyszłość</h2>
@@ -23,12 +29,12 @@
 		<h2 class="news-title">pierwszy test podzespołów silnika Bieli3K - wtryskiwacze</h2>
 		<a href="/news/wtryskiwacze" class="news-button">Zobacz więcej</a>
 	</article>
-	<article class="news-item">
+	<!-- <article class="news-item">
 		<img src="/images/news/zzt.png" alt="" class="news-image" />
 		<p class="news-date">2 grudnia, 2021</p>
 		<h2 class="news-title">RKNT bierze udział w ZZT</h2>
 		<a href="/news/zzt" class="news-button">Zobacz więcej</a>
-	</article>
+	</article> -->
 </section>
 
 <style lang="scss">
