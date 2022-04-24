@@ -1,8 +1,8 @@
 <!-- <img src="/images/splashscreendark.png" alt="Prototyp hybrydowego silnika rakietowego Bieli3k" /> -->
 <section class="hero">
-	<a href="/news/wifi" class="hero__button">
-		13 PAŹDZIERNIKA
-		<h2>FESTIWAL WIFI</h2>
+	<a href="/news/bieli3k_sf" class="hero__button">
+		20 LUTEGO
+		<h2>Bieli3k - test SF</h2>
 		ZOBACZ >
 	</a>
 </section>
@@ -11,10 +11,11 @@
 	.hero {
 		margin-top: -6rem;
 		height: 100vh;
-		background-image: url('/images/wifi_hero.jpg');
+		background-image: url('/images/news/bieli3k/sf1.png');
 		background-attachment: fixed;
 		background-size: cover;
 		background-repeat: no-repeat;
+		// background-position: 10% 10%;
 
 		&__button {
 			position: absolute;
@@ -41,6 +42,7 @@
 		font-size: 3rem;
 		margin: 5px;
 		line-height: normal;
+		text-transform: uppercase;
 	}
 
 	@media (min-width: 800px) {

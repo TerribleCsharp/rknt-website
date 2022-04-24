@@ -13,7 +13,7 @@
 <script>
 	const author = 'Filip Komińczuk';
 	const github = 'https://github.com/TerribleCsharp/rknt-website';
-	const version = '0.1.3';
+	const version = '0.1.4';
 
 	// const [author] = pkg.author?.match('^([a-ż]*[A-Ż]* ){2}') || ['undefined'];
 	// const github = pkg.repository;

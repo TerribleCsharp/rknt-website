@@ -42,9 +42,9 @@
 			max-height: 80vh;
 			margin: auto;
 
-			// @media (min-width: 800px) {
-			// 	max-width: 50vw;
-			// }
+			@media (min-width: 800px) {
+				max-height: 50vh;
+			}
 		}
 		figcaption {
 			margin-top: 1rem;
